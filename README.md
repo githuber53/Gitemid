@@ -1,3 +1,6 @@
+G18DA243004, G18BD283004, market_bucket_group_id, itemid, Gitemid 
+
+
 # Steam Market Params
 
 用于批量获取 Steam 市场参数：
